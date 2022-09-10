@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'etien.org-root',
+  selector: 'etien-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css'],
 })

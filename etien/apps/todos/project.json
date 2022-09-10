@@ -1,7 +1,7 @@
 {
   "projectType": "application",
   "sourceRoot": "apps/todos/src",
-  "prefix": "etien.org",
+  "prefix": "etien",
   "targets": {
     "build": {
       "executor": "@angular-devkit/build-angular:browser",

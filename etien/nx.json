@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
-  "npmScope": "etien.org",
+  "npmScope": "etien",
   "affected": {
     "defaultBase": "master"
   },
@@ -14,7 +14,7 @@
           "test",
           "e2e"
         ],
-        "accessToken": "OTQ3ZWQ3NmEtYmNhYy00MmUwLWExODMtNGJlMzgyYjhhZGUyfHJlYWQtd3JpdGU="
+        "accessToken": "NDAxNDM1MDMtMzMxZC00NWZiLWE5NzgtNzI3NjQyOWI2NjdlfHJlYWQtd3JpdGU="
       }
     }
   },
